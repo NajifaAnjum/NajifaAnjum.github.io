@@ -1,0 +1,27 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.button_box{
+	padding:17%;
+}
+.button_box h1{
+	padding-bottom:20px;
+}
+.button_box input[type="submit"]
+{
+	width:140px;
+	border:none;
+	outline:none;
+	height:45px;
+	background:#416de6;
+	color:#fff;
+	font-size:18px;
+	border-radius:10px;
+	
+}
+.button_box input[type="submit"]:hover
+{
+	background:#ffc107;
+	color:#000;
+}
